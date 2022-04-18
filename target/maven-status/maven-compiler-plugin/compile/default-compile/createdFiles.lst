@@ -1,0 +1,13 @@
+com\mycompany\ecommercewebsite\entities\Category.class
+com\mycompany\ecommercewebsite\entities\Product.class
+com\mycompany\ecommercewebsite\helper\Helper.class
+com\mycompany\ecommercewebsite\servelets\RegisterServlet.class
+com\mycompany\ecommercewebsite\dao\EmailValidationDao.class
+com\mycompany\ecommercewebsite\dao\CategoryDao.class
+com\mycompany\ecommercewebsite\dao\UserDao.class
+com\mycompany\ecommercewebsite\servelets\LoginServelet.class
+com\mycompany\ecommercewebsite\helper\FactoryProvider.class
+com\mycompany\ecommercewebsite\servelets\LogoutServlet.class
+com\mycompany\ecommercewebsite\dao\ProductDao.class
+com\mycompany\ecommercewebsite\servelets\ProductOperationServlet.class
+com\mycompany\ecommercewebsite\entities\User.class
